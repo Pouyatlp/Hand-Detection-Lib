@@ -18,8 +18,14 @@ press "Q" on your keyboard to terminate the video.
 
 # How to install
 open Command Line and enter the command below :
+pip install HDL.v2
 
 
+Also you can find the package in links below :
+
+https://test.pypi.org/project/HDL.v2/0.0.1/ 
+
+https://pypi.org/project/HDL.v2/0.0.1/
 
 
 
